@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stacksqueue uc-4", "stacksqueue uc-4.csproj", "{9B649854-25A3-486A-9E09-2236C8C168E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B649854-25A3-486A-9E09-2236C8C168E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B649854-25A3-486A-9E09-2236C8C168E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B649854-25A3-486A-9E09-2236C8C168E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B649854-25A3-486A-9E09-2236C8C168E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B899B4-0A95-4067-A793-5829B2C3DE32}
+	EndGlobalSection
+EndGlobal
